@@ -255,10 +255,5 @@ timeline
 ---
 
 <p align="center">
-  <strong>ConiqSuite</strong><br />
-  Accessible software. Transparent checks. Built with purpose.
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=120&color=0:00C2FF,55:7C3AED,100:1F6FEB&section=footer" alt="ConiqSuite footer" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=240&color=0:00C2FF,45:7C3AED,100:1F6FEB&section=header&text=ConiqSuite&fontColor=FFFFFF&fontSize=64&fontAlign=50&fontAlignY=40&desc=Accessible%20software.%20Transparent%20checks.%20Built%20with%20purpose.&descSize=18&descAlign=50&descAlignY=61&animation=fadeIn" />
 </p>
