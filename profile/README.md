@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1F6FEB,45:7C3AED,100:00C2FF&text=ConiqSuite&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Accessible%20software.%20Transparent%20checks.%20Built%20with%20purpose.&descAlignY=58&descSize=18&animation=fadeIn" alt="ConiqSuite banner" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:1F6FEB,45:7C3AED,100:00C2FF&text=ConiqSuite&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Accessible%20software.%20Transparent%20checks.%20Built%20with%20purpose.&descAlignY=58&descSize=18&animation=fadeIn" alt="ConiqSuite banner" />
 </p>
 
 <p align="center">
@@ -260,5 +260,5 @@ timeline
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C2FF,55:7C3AED,100:1F6FEB&section=footer" alt="ConiqSuite footer" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=120&color=0:00C2FF,55:7C3AED,100:1F6FEB&section=footer" alt="ConiqSuite footer" />
 </p>
