@@ -1,75 +1,110 @@
-# LogiSuite
+# ConiqSuite
 
-Wir entwickeln praktische Software für klare digitale Workflows.
+**Accessible software. Transparent checks. Built with purpose.**
 
-LogiSuite ist eine Sammlung fokussierter Tools, die wiederkehrende Aufgaben einfacher, nachvollziehbarer und robuster machen. Unser Schwerpunkt liegt auf strukturierten Workflows, überprüfbaren Ergebnissen, sauberer Ausgabe und Oberflächen, die auch bei regelmäßiger Nutzung übersichtlich bleiben.
+ConiqSuite is a growing software project focused on creating useful, accessible tools for everyday work, organization, and digital processes.
 
-## Unsere Projekte
+The project was founded and is currently developed by **Connor Christ**. At this stage, ConiqSuite is not a large team or company — it is an independent project built with the goal of making practical software available to more people.
 
-### LogiQR
+---
 
-**QR-Codes lokal erstellen, gestalten, prüfen und exportieren.**
+## What ConiqSuite stands for
 
-LogiQR ist ein Desktop-Studio für QR-Code-Workflows. Die App bündelt Inhaltserfassung, Live-Vorschau, Design-Anpassung, Lesbarkeitsprüfung und Export in einem lokalen Workflow. Sie eignet sich für QR-Codes in Websites, Office-Dokumenten, Aushängen, Supportseiten, Marketingmaterial und Druckdaten.
+Many useful software tools are locked behind paid plans, subscriptions, or closed ecosystems. ConiqSuite aims to provide strong alternatives for common digital workflows while keeping the project professional, reliable, and transparent where it matters.
 
-**Schwerpunkte**
+ConiqSuite is **not fully open source**. Some parts of the projects may remain closed source. However, important checking, validation, and verification processes are planned to be published openly, so users can understand and trust critical parts of how the software works.
 
-- QR-Codes für URLs, Text, WLAN-Zugänge, Kontaktkarten, E-Mail, Telefon, SMS und Standortdaten
-- Gestaltung mit Farben, Modulformen, Logos, Rahmen und Hintergründen
-- Export für Web, Office und Print, unter anderem als PNG, SVG, JPG, WEBP, BMP und TIFF
-- Qualität vor Weitergabe durch Scan-Test, Kontrastprüfung, Lesbarkeitsprüfung und technische Kontrolle
-- Desktop-Workflow für Windows, macOS und Linux
+---
 
-### LogiLIST
+## Current and planned projects
 
-**Flexible Projektlisten für Teams, Organisation und wiederkehrende Abläufe.**
+### ConiqQR
 
-LogiLIST ist als allgemein nutzbare Projektlisten-App innerhalb der LogiSuite gedacht. Der Fokus liegt nicht nur auf Inventarlisten, sondern auf flexiblen Listen für Projekte, Equipment, Aufgaben, Bestände, Events und interne Abläufe.
+**ConiqQR** is a local desktop application for creating, checking, and exporting QR codes.
 
-**Schwerpunkte**
+It is designed for users who need a simple but reliable way to generate QR codes without depending on online services for every step.
 
-- Projektlisten, die sich an den jeweiligen Arbeitskontext anpassen lassen
-- Projektnamen statt starrer Begriffe wie „Inventurliste“
-- strukturierte Mengen- und Listeneinträge für unterschiedliche Einsatzbereiche
-- mehrsprachige Bedienung mit Deutsch und Englisch
-- kollaborative Arbeitsabläufe mit Nutzeranzeige, Presence-Konzepten und klarer Rollenlogik
-- konsistentes Branding als Teil der LogiSuite
+Planned and existing focus areas include:
 
-## Wofür wir entwickeln
+- QR code creation
+- QR code checking and validation
+- local-first usage
+- export options
+- transparent verification processes
 
-Wir bauen Tools für Menschen, Teams, Vereine, Organisationen und kleinere Projekte, die digitale Aufgaben ohne unnötige Komplexität erledigen wollen: vorbereiten, prüfen, exportieren, teilen und weiterarbeiten.
+---
 
-Unsere Produkte sollen:
+### ConiqLIST
 
-- verständlich bleiben
-- robuste Ergebnisse liefern
-- gut in bestehende Workflows passen
-- private, organisatorische und kleinere professionelle Projekte unterstützen
-- deutsch- und englischsprachige Nutzung berücksichtigen
-- in Light Mode und Dark Mode sauber funktionieren
+**ConiqLIST** is a flexible list and project organization tool.
 
-## Leitlinien
+It is not limited to inventory lists. ConiqLIST is intended to support structured work with lists, projects, tasks, and organized information.
 
-- **Praktisch statt überladen**  
-  Jede Funktion soll einen konkreten Arbeitsablauf verbessern.
+Possible use cases include:
 
-- **Nachvollziehbar**  
-  Inhalte, Design, Einstellungen und Ausgabe sollen klar getrennt bleiben.
+- project lists
+- task planning
+- structured notes
+- simple workflows
+- organized digital records
 
-- **Kontrollierbar**  
-  Wo sinnvoll, bleiben Kernprozesse lokal, prüfbar und reproduzierbar.
+---
 
-- **Wiederverwendbar**  
-  Presets, Einstellungen und strukturierte Daten sollen wiederkehrende Aufgaben vereinfachen.
+### ConiqTEAM
 
-- **Zugänglich**  
-  Klare Sprache, responsive Oberflächen und Mehrsprachigkeit gehören zum Produktanspruch.
+**ConiqTEAM** is a planned scheduling and team coordination web application with PWA support.
 
-## Status
+The goal is to provide a practical tool for duty rosters, shift planning, and team-based scheduling that can be used directly through the browser and installed like an app where supported.
 
-Unsere Projekte entwickeln sich iterativ weiter. Feedback, Fehlerberichte und konkrete Anwendungsfälle helfen uns, LogiQR, LogiLIST und die LogiSuite praxisnah zu verbessern.
+Planned focus areas include:
 
-## Projekte ansehen
+- duty roster planning
+- team schedules
+- PWA support
+- browser-based access
+- simple and clear organization
 
-- **LogiQR** — QR-Code Desktop Studio
-- **LogiLIST** — flexible Projektlisten
+---
+
+### More projects
+
+Additional ConiqSuite projects are planned for the future.
+
+The long-term goal is to build a connected collection of tools that are practical, trustworthy, and accessible without forcing users into unnecessary complexity.
+
+---
+
+## Source code status
+
+The source code for ConiqSuite projects is planned to be published soon.
+
+Some parts may remain closed source, especially where this is necessary for project structure, security, or long-term maintainability. Critical checking and validation processes are intended to be made open and transparent.
+
+---
+
+## Project style
+
+ConiqSuite uses a consistent naming style across its projects:
+
+- **ConiqSuite** — the main project and organization name
+- **ConiqQR** — QR code tools
+- **ConiqLIST** — lists, projects, and structured organization
+- **ConiqTEAM** — scheduling and team planning
+- **ConiqVERIFY** — planned transparent verification and checking processes
+- **ConiqCORE** — planned shared technical foundation
+
+---
+
+## Mission
+
+ConiqSuite exists to create software that is useful, understandable, and available to more people.
+
+The goal is not only to build tools, but to build tools users can trust.
+
+---
+
+## Founder
+
+Created by **Connor Christ**.
+
+ConiqSuite is currently an independent project and may grow over time as more tools, source code, and public components are released.
