@@ -1,58 +1,61 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:1F6FEB,45:7C3AED,100:00C2FF&text=ConiqSuite&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Accessible%20software.%20Transparent%20checks.%20Built%20with%20purpose.&descAlignY=58&descSize=18&animation=fadeIn" alt="ConiqSuite banner" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:1F6FEB,45:7C3AED,100:00C2FF&text=Qubik%20Studios&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Independent%20desktop%20software.%20Practical%20tools.%20Built%20with%20purpose.&descAlignY=58&descSize=18&animation=fadeIn" alt="Qubik Studios banner" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ConiqSuite">
-    <img src="https://img.shields.io/badge/ConiqSuite-Software%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="ConiqSuite" />
+  <a href="https://github.com/Qubik-Studio">
+    <img src="https://img.shields.io/badge/Qubik%20Studios-Software%20Studio-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Qubik Studios" />
   </a>
   <img src="https://img.shields.io/badge/Founder-Connor%20Christ-7C3AED?style=for-the-badge" alt="Founder: Connor Christ" />
   <img src="https://img.shields.io/badge/Status-Independent%20Project-00A36C?style=for-the-badge" alt="Independent Project" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Desktop%20Apps-Windows%20%7C%20macOS%20%7C%20Linux-1F6FEB?style=flat-square" alt="Desktop apps for Windows, macOS and Linux" />
   <img src="https://img.shields.io/badge/Source%20Code-Coming%20Soon-f59e0b?style=flat-square" alt="Source code coming soon" />
-  <img src="https://img.shields.io/badge/Open%20Processes-Planned-22c55e?style=flat-square" alt="Open checking and validation processes planned" />
+  <img src="https://img.shields.io/badge/Transparent%20Processes-Planned-22c55e?style=flat-square" alt="Transparent processes planned" />
   <img src="https://img.shields.io/badge/Fully%20Open%20Source-No-ef4444?style=flat-square" alt="Not fully open source" />
   <img src="https://img.shields.io/badge/Made%20in-Germany-0f172a?style=flat-square" alt="Made in Germany" />
 </p>
 
 <p align="center">
-  <strong>ConiqSuite builds practical software for everyday digital work.</strong><br />
-  Simple tools. Clear workflows. Transparent where trust matters.
+  <strong>Qubik Studios builds practical desktop software for everyday digital work.</strong><br />
+  Local-first tools. Clear workflows. Transparent where trust matters.
 </p>
 
 ---
 
-## ✦ What is ConiqSuite?
+## ✦ What is Qubik Studios?
 
-**ConiqSuite** is a growing software project focused on building useful, accessible tools for organization, digital workflows, and everyday productivity.
+**Qubik Studios** is an independent software project focused on building practical desktop tools for productivity, organization, and digital workflows.
 
-The project was founded and is currently developed by **Connor Christ**.  
-At this stage, ConiqSuite is not a company or a large team — it is an independent project with a professional direction and a clear goal:
+The project was founded and is currently developed by **Connor Christ**.
 
-> **Make helpful software more accessible without hiding the important parts users should be able to trust.**
+At this stage, Qubik Studios is not a large company or agency. It is an independent software studio with a professional direction and a clear goal:
 
-ConiqSuite is **not fully open source**. Some parts may remain closed source for security, structure, or long-term maintainability.  
+> **Create useful desktop software that stays understandable, accessible, and reliable.**
+
+Qubik Studios is **not fully open source**. Some parts may remain closed source for security, structure, or long-term maintainability.
+
 However, important checking, validation, and verification-related processes are planned to be made transparent where it makes sense.
 
 ---
 
-## ⚡ The ConiqSuite idea
+## ⚡ The Qubik Studios idea
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>🧩 Useful</h3>
-      <p>Tools should solve real problems, not create new ones.</p>
+      <h3>🧩 Practical</h3>
+      <p>Tools should solve real problems without adding unnecessary complexity.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>💻 Local-first</h3>
+      <p>Desktop apps should work reliably without forcing every workflow through online services.</p>
     </td>
     <td width="33%" align="center">
       <h3>🔍 Transparent</h3>
       <p>Critical checking processes should be understandable and trustworthy.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🚀 Accessible</h3>
-      <p>Software should be available to more people, not only behind complex paywalls.</p>
     </td>
   </tr>
 </table>
@@ -63,21 +66,23 @@ However, important checking, validation, and verification-related processes are 
 
 ```mermaid
 flowchart LR
-    A[ConiqSuite] --> B[ConiqQR]
-    A --> C[ConiqLIST]
-    A -. planned .-> D[ConiqTEAM]
+    A[Qubik Studios] --> B[Codemark]
+    A --> C[Ordly]
+    A -. planned .-> D[Future desktop tools]
 
     B --> B1[QR code creation]
-    B --> B2[QR code checking]
-    B --> B3[Local export]
+    B --> B2[QR code customization]
+    B --> B3[QR code validation]
+    B --> B4[Local export]
 
-    C --> C1[Lists]
-    C --> C2[Projects]
+    C --> C1[Project lists]
+    C --> C2[Inventory lists]
     C --> C3[Structured work]
+    C --> C4[Team-aware organization]
 
-    D --> D1[Duty rosters]
-    D --> D2[Team scheduling]
-    D --> D3[PWA support]
+    D --> D1[New utilities]
+    D --> D2[Workflow tools]
+    D --> D3[Productivity apps]
 ```
 
 ---
@@ -86,108 +91,97 @@ flowchart LR
 
 <table>
   <tr>
-    <th align="left">Project</th>
+    <th align="left">Product</th>
     <th align="left">Status</th>
     <th align="left">Purpose</th>
   </tr>
   <tr>
     <td>
-      <strong>ConiqQR</strong><br />
-      <sub>formerly LogiQR</sub>
+      <strong>Codemark</strong><br />
+      <sub>QR code desktop app</sub>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Rename%20in%20progress-1F6FEB?style=flat-square" alt="Rename in progress" />
+      <img src="https://img.shields.io/badge/Branding%20in%20progress-1F6FEB?style=flat-square" alt="Branding in progress" />
     </td>
     <td>
-      A local desktop app for creating, checking, and exporting QR codes.
+      A local desktop app for creating, customizing, validating, and exporting QR codes.
     </td>
   </tr>
   <tr>
     <td>
-      <strong>ConiqLIST</strong>
+      <strong>Ordly</strong><br />
+      <sub>List and project organization desktop app</sub>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Project%20active-7C3AED?style=flat-square" alt="Project active" />
     </td>
     <td>
-      A flexible tool for lists, project organization, structured tasks, and organized information.
+      A flexible desktop tool for project lists, inventory lists, structured tasks, and organized information.
     </td>
   </tr>
   <tr>
     <td>
-      <strong>ConiqTEAM</strong>
+      <strong>Future tools</strong>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Future%20project-f59e0b?style=flat-square" alt="Future project" />
+      <img src="https://img.shields.io/badge/Planned-f59e0b?style=flat-square" alt="Planned" />
     </td>
     <td>
-      A planned duty roster and team scheduling web app with PWA support.
+      Additional utilities may be added under the Qubik Studios umbrella over time.
     </td>
   </tr>
 </table>
 
 ---
 
-## 🔷 ConiqQR
+## 🔷 Codemark
 
-**ConiqQR** is the new name for **LogiQR**.
+**Codemark** is a desktop app by **Qubik Studios**.
 
-It is designed for users who need a simple and reliable way to work with QR codes locally — without depending on online services for every step.
+It is designed for users who need a simple and reliable way to create, customize, validate, and export QR codes locally.
+
+Codemark is not a scanner app and does not focus on document scanning. Its focus is the creation and export of QR codes for practical everyday use.
 
 **Focus areas:**
 
 - QR code creation
-- QR code checking
-- export options
+- QR code customization
+- QR code validation
+- local export
 - local-first usage
 - clear and simple usability
 
-> The transition from **LogiQR** to **ConiqQR** is currently in progress.  
-> The new name and logo will appear in the next version of the app.
-
 <p>
-  <a href="https://qr.logilist.de">
-    <img src="https://img.shields.io/badge/Visit%20ConiqQR%20Website-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit ConiqQR Website" />
-  </a>
+  <img src="https://img.shields.io/badge/Codemark-QR%20Code%20Desktop%20App-1F6FEB?style=for-the-badge" alt="Codemark QR Code Desktop App" />
 </p>
 
 ---
 
-## 🟣 ConiqLIST
+## 🟣 Ordly
 
-**ConiqLIST** is a flexible list and project organization tool.
+**Ordly** is a desktop app by **Qubik Studios**.
 
-It is not limited to inventory lists. The goal is to support structured work with lists, projects, tasks, notes, and organized digital records.
+It is a flexible list and project organization tool. It is not limited to inventory lists. The goal is to support structured work with projects, tasks, equipment lists, notes, and organized digital records.
 
 **Possible use cases:**
 
 - project lists
+- inventory lists
+- equipment lists
 - task planning
 - structured notes
 - simple workflows
 - organized information
 
----
-
-## 🟠 ConiqTEAM
-
-**ConiqTEAM** is planned as a scheduling and team coordination web application with PWA support.
-
-The idea is to provide a practical tool for duty rosters, shift planning, and team-based scheduling that can run in the browser and be installed like an app where supported.
-
-**Planned direction:**
-
-- duty roster planning
-- team schedules
-- browser-based access
-- PWA support
-- simple team organization
+<p>
+  <img src="https://img.shields.io/badge/Ordly-Project%20List%20Desktop%20App-7C3AED?style=for-the-badge" alt="Ordly Project List Desktop App" />
+</p>
 
 ---
 
 ## 🔐 Source code and transparency
 
-ConiqSuite is built with a balanced source model.
+Qubik Studios is built with a balanced source model.
 
 <table>
   <tr>
@@ -202,21 +196,24 @@ ConiqSuite is built with a balanced source model.
   </tr>
 </table>
 
-The source code for ConiqSuite projects is planned to be published step by step in the future.  
+The source code for Qubik Studios projects is planned to be published step by step in the future.
+
 Until then, public repositories, documentation, and project information will be expanded over time.
 
 ---
 
 ## ✨ Naming style
 
-ConiqSuite uses a consistent naming style across its projects:
+Qubik Studios uses a product-based naming structure.
 
 | Name | Meaning |
 |---|---|
-| **ConiqSuite** | The main organization and project identity |
-| **ConiqQR** | QR code creation, checking, and export |
-| **ConiqLIST** | Lists, projects, and structured organization |
-| **ConiqTEAM** | Planned scheduling and team coordination |
+| **Qubik Studios** | Main project identity and publisher brand |
+| **Codemark** | QR code creation, customization, validation, and export |
+| **Ordly** | Lists, projects, inventory, and structured organization |
+| **Future tools** | Additional desktop utilities under the Qubik Studios umbrella |
+
+This structure keeps the product names clear and independent while keeping the overall project identity consistent.
 
 ---
 
@@ -224,16 +221,16 @@ ConiqSuite uses a consistent naming style across its projects:
 
 ```mermaid
 timeline
-    title ConiqSuite direction
-    Now : ConiqSuite identity
-        : LogiQR becomes ConiqQR
-        : Profile and project branding
-    Next : Source code preparation
+    title Qubik Studios direction
+    Now : Qubik Studios identity
+        : Codemark branding
+        : Ordly branding
+    Next : Desktop app refinement
          : Documentation improvements
-         : New ConiqQR app branding
-    Later : More public project information
-          : ConiqLIST expansion
-          : ConiqTEAM planning
+         : Public project information
+    Later : Source code preparation
+          : Transparent validation processes
+          : Additional desktop utilities
 ```
 
 ---
@@ -241,8 +238,8 @@ timeline
 ## 📌 Quick links
 
 <p>
-  <a href="https://qr.logilist.de">
-    <img src="https://img.shields.io/badge/ConiqQR%20Website-Open-1F6FEB?style=for-the-badge" alt="ConiqQR Website" />
+  <a href="https://github.com/Qubik-Studio">
+    <img src="https://img.shields.io/badge/GitHub-Qubik%20Studios-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Qubik Studios GitHub" />
   </a>
   <a href="https://bugtracker.logilist.de">
     <img src="https://img.shields.io/badge/Bugtracker-Open-7C3AED?style=for-the-badge" alt="Bugtracker" />
@@ -252,8 +249,10 @@ timeline
   </a>
 </p>
 
+> Some public links may still use legacy domains while the new branding is being prepared.
+
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=240&color=0:00C2FF,45:7C3AED,100:1F6FEB&section=header&text=ConiqSuite&fontColor=FFFFFF&fontSize=64&fontAlign=50&fontAlignY=40&desc=Accessible%20software.%20Transparent%20checks.%20Built%20with%20purpose.&descSize=18&descAlign=50&descAlignY=61&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=240&color=0:00C2FF,45:7C3AED,100:1F6FEB&section=header&text=Qubik%20Studios&fontColor=FFFFFF&fontSize=64&fontAlign=50&fontAlignY=40&desc=Independent%20desktop%20software.%20Practical%20tools.%20Built%20with%20purpose.&descSize=18&descAlign=50&descAlignY=61&animation=fadeIn" alt="Qubik Studios footer banner" />
 </p>
