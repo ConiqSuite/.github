@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:1F6FEB,45:7C3AED,100:00C2FF&text=Qubik%20Studios&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Independent%20desktop%20software.%20Practical%20tools.%20Built%20with%20purpose.&descAlignY=58&descSize=18&animation=fadeIn" alt="Qubik Studios banner" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:1F6FEB,45:7C3AED,100:00C2FF&text=Qubik%20Studios&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Independent%20software.%20Practical%20tools.%20Built%20with%20purpose.&descAlignY=58&descSize=18&animation=fadeIn" alt="Qubik Studios banner" />
 </p>
 
 <p align="center">
@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Desktop%20Apps-Windows%20%7C%20macOS%20%7C%20Linux-1F6FEB?style=flat-square" alt="Desktop apps for Windows, macOS and Linux" />
+  <img src="https://img.shields.io/badge/Codemark-Desktop%20App-1F6FEB?style=flat-square" alt="Codemark desktop app" />
+  <img src="https://img.shields.io/badge/Ordly-Browser%20Based%20App-7C3AED?style=flat-square" alt="Ordly browser based app" />
   <img src="https://img.shields.io/badge/Source%20Code-Coming%20Soon-f59e0b?style=flat-square" alt="Source code coming soon" />
   <img src="https://img.shields.io/badge/Transparent%20Processes-Planned-22c55e?style=flat-square" alt="Transparent processes planned" />
   <img src="https://img.shields.io/badge/Fully%20Open%20Source-No-ef4444?style=flat-square" alt="Not fully open source" />
@@ -19,21 +20,21 @@
 </p>
 
 <p align="center">
-  <strong>Qubik Studios builds practical desktop software for everyday digital work.</strong><br />
-  Local-first tools. Clear workflows. Transparent where trust matters.
+  <strong>Qubik Studios builds practical software for everyday digital work.</strong><br />
+  Local-first desktop tools. Browser-based workflows. Clear and purposeful software.
 </p>
 
 ---
 
 ## ✦ What is Qubik Studios?
 
-**Qubik Studios** is an independent software project focused on building practical desktop tools for productivity, organization, and digital workflows.
+**Qubik Studios** is an independent software project focused on building practical tools for productivity, organization, and digital workflows.
 
 The project was founded and is currently developed by **Connor Christ**.
 
 At this stage, Qubik Studios is not a large company or agency. It is an independent software studio with a professional direction and a clear goal:
 
-> **Create useful desktop software that stays understandable, accessible, and reliable.**
+> **Create useful software that stays understandable, accessible, and reliable.**
 
 Qubik Studios is **not fully open source**. Some parts may remain closed source for security, structure, or long-term maintainability.
 
@@ -50,8 +51,8 @@ However, important checking, validation, and verification-related processes are 
       <p>Tools should solve real problems without adding unnecessary complexity.</p>
     </td>
     <td width="33%" align="center">
-      <h3>💻 Local-first</h3>
-      <p>Desktop apps should work reliably without forcing every workflow through online services.</p>
+      <h3>💻 Platform-aware</h3>
+      <p>Some tools work best as desktop apps, while others are better as browser-based workflows.</p>
     </td>
     <td width="33%" align="center">
       <h3>🔍 Transparent</h3>
@@ -68,7 +69,7 @@ However, important checking, validation, and verification-related processes are 
 flowchart LR
     A[Qubik Studios] --> B[Codemark]
     A --> C[Ordly]
-    A -. planned .-> D[Future desktop tools]
+    A -. planned .-> D[Future tools]
 
     B --> B1[QR code creation]
     B --> B2[QR code customization]
@@ -78,7 +79,8 @@ flowchart LR
     C --> C1[Project lists]
     C --> C2[Inventory lists]
     C --> C3[Structured work]
-    C --> C4[Team-aware organization]
+    C --> C4[Browser-based access]
+    C --> C5[Realtime collaboration]
 
     D --> D1[New utilities]
     D --> D2[Workflow tools]
@@ -92,13 +94,17 @@ flowchart LR
 <table>
   <tr>
     <th align="left">Product</th>
+    <th align="left">Type</th>
     <th align="left">Status</th>
     <th align="left">Purpose</th>
   </tr>
   <tr>
     <td>
       <strong>Codemark</strong><br />
-      <sub>QR code desktop app</sub>
+      <sub>QR code tool</sub>
+    </td>
+    <td>
+      Desktop app
     </td>
     <td>
       <img src="https://img.shields.io/badge/Branding%20in%20progress-1F6FEB?style=flat-square" alt="Branding in progress" />
@@ -110,18 +116,24 @@ flowchart LR
   <tr>
     <td>
       <strong>Ordly</strong><br />
-      <sub>List and project organization desktop app</sub>
+      <sub>List and project organization tool</sub>
+    </td>
+    <td>
+      Browser-based app
     </td>
     <td>
       <img src="https://img.shields.io/badge/Project%20active-7C3AED?style=flat-square" alt="Project active" />
     </td>
     <td>
-      A flexible desktop tool for project lists, inventory lists, structured tasks, and organized information.
+      A flexible browser-based tool for project lists, inventory lists, structured tasks, and organized information.
     </td>
   </tr>
   <tr>
     <td>
       <strong>Future tools</strong>
+    </td>
+    <td>
+      To be defined
     </td>
     <td>
       <img src="https://img.shields.io/badge/Planned-f59e0b?style=flat-square" alt="Planned" />
@@ -159,9 +171,11 @@ Codemark is not a scanner app and does not focus on document scanning. Its focus
 
 ## 🟣 Ordly
 
-**Ordly** is a desktop app by **Qubik Studios**.
+**Ordly** is a browser-based app by **Qubik Studios**.
 
-It is a flexible list and project organization tool. It is not limited to inventory lists. The goal is to support structured work with projects, tasks, equipment lists, notes, and organized digital records.
+It is a flexible list and project organization tool that runs in the browser. It is not limited to inventory lists. The goal is to support structured work with projects, tasks, equipment lists, notes, and organized digital records.
+
+Ordly is designed for browser-based access and can be extended toward realtime collaboration, shared project views, and PWA-style usage where supported.
 
 **Possible use cases:**
 
@@ -172,9 +186,11 @@ It is a flexible list and project organization tool. It is not limited to invent
 - structured notes
 - simple workflows
 - organized information
+- collaborative list work
+- browser-based project organization
 
 <p>
-  <img src="https://img.shields.io/badge/Ordly-Project%20List%20Desktop%20App-7C3AED?style=for-the-badge" alt="Ordly Project List Desktop App" />
+  <img src="https://img.shields.io/badge/Ordly-Browser%20Based%20Project%20List%20App-7C3AED?style=for-the-badge" alt="Ordly Browser Based Project List App" />
 </p>
 
 ---
@@ -210,8 +226,8 @@ Qubik Studios uses a product-based naming structure.
 |---|---|
 | **Qubik Studios** | Main project identity and publisher brand |
 | **Codemark** | QR code creation, customization, validation, and export |
-| **Ordly** | Lists, projects, inventory, and structured organization |
-| **Future tools** | Additional desktop utilities under the Qubik Studios umbrella |
+| **Ordly** | Browser-based lists, projects, inventory, and structured organization |
+| **Future tools** | Additional utilities under the Qubik Studios umbrella |
 
 This structure keeps the product names clear and independent while keeping the overall project identity consistent.
 
@@ -225,12 +241,12 @@ timeline
     Now : Qubik Studios identity
         : Codemark branding
         : Ordly branding
-    Next : Desktop app refinement
+    Next : App refinement
          : Documentation improvements
          : Public project information
     Later : Source code preparation
           : Transparent validation processes
-          : Additional desktop utilities
+          : Additional utilities
 ```
 
 ---
@@ -254,5 +270,5 @@ timeline
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=240&color=0:00C2FF,45:7C3AED,100:1F6FEB&section=header&text=Qubik%20Studios&fontColor=FFFFFF&fontSize=64&fontAlign=50&fontAlignY=40&desc=Independent%20desktop%20software.%20Practical%20tools.%20Built%20with%20purpose.&descSize=18&descAlign=50&descAlignY=61&animation=fadeIn" alt="Qubik Studios footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=240&color=0:00C2FF,45:7C3AED,100:1F6FEB&section=header&text=Qubik%20Studios&fontColor=FFFFFF&fontSize=64&fontAlign=50&fontAlignY=40&desc=Independent%20software.%20Practical%20tools.%20Built%20with%20purpose.&descSize=18&descAlign=50&descAlignY=61&animation=fadeIn" alt="Qubik Studios footer banner" />
 </p>
